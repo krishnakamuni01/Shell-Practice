@@ -3,7 +3,7 @@
 Person1 = $1
 person2 = $2
 
-echo " $Person1 hi "
-echo " hi $person2 "
-echo " how $person2 you "
-echo " ok $person2"
+echo "$Person1 hi"
+echo "hi $person2 "
+echo "how $Person2 you"
+echo " ok $Person2"
